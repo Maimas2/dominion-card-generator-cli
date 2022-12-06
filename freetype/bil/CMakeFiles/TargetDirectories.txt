@@ -1,0 +1,9 @@
+/home/alex/Downloads/freetype-2.12.0/bil/CMakeFiles/install/strip.dir
+/home/alex/Downloads/freetype-2.12.0/bil/CMakeFiles/install/local.dir
+/home/alex/Downloads/freetype-2.12.0/bil/CMakeFiles/edit_cache.dir
+/home/alex/Downloads/freetype-2.12.0/bil/CMakeFiles/package_source.dir
+/home/alex/Downloads/freetype-2.12.0/bil/CMakeFiles/install.dir
+/home/alex/Downloads/freetype-2.12.0/bil/CMakeFiles/list_install_components.dir
+/home/alex/Downloads/freetype-2.12.0/bil/CMakeFiles/rebuild_cache.dir
+/home/alex/Downloads/freetype-2.12.0/bil/CMakeFiles/package.dir
+/home/alex/Downloads/freetype-2.12.0/bil/CMakeFiles/freetype.dir

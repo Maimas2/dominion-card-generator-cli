@@ -1,0 +1,13 @@
+/.vscode
+/CMakeCache.txt
+/CMakeDoxyfile.in
+/CMakeDoxygenDefaults.cmake
+/CMakeFiles
+/Makefile
+/cc-bin
+/cmake_install.cmake
+/imgui.ini
+/libglfw3.a
+/opengl-dominion.project
+/out.jpg
+/tempicon.png
